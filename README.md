@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hafsa Mudassar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=IT+Undergraduate+%7C+BSIT+7th+Semester;Web+Developer+%7C+HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Generative+AI+Enthusiast+%7C+Gemini+API;Looking+for+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=;Web+Developer+%7C+HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Generative+AI+Enthusiast+%7C+Gemini+API;Looking+for+Job+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,55 +24,16 @@
 ### 🐍 Contribution Snake
 
 
-<details>
-<summary>⚙️ How this snake is generated (setup instructions)</summary>
-
-<br>
-
-This animation is generated automatically using the [platane/snk](https://github.com/Platane/snk) GitHub Action.
-To set it up on your own profile repo (<hafsa-cloud123>/<hafsa-cloud123>):
-
-1. Create a new workflow file at .github/workflows/snake.yml in your profile repository with the following content:
-
-yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafsa-cloud123/hafsa-cloud123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafsa-cloud123/hafsa-cloud123/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hafsa-cloud123/hafsa-cloud123/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 
-2. Commit and push the workflow file — it will run automatically on schedule, or you can trigger it manually from the **Actions** tab.
-3. Once it runs, an `output` branch will be created containing the generated SVG files.
-4. Reference the SVG in your README using the raw GitHub URL, as shown above (light/dark variants supported via `<picture>`).
 
-</details>
 
 ---
 
@@ -121,16 +82,13 @@ jobs:
 | 🧠 **[Quiz Application](hafsa-cloud123)** | A dynamic quiz app that tracks user scores in real time with a smooth, engaging UI. | • Real-time score tracking<br>• Dynamic question rendering<br>• Clean, responsive UI | `HTML5` `CSS3` `JavaScript` |
 | ❌⭕ **[Tic-Tac-Toe Game](hafsa-cloud123)** | An interactive two-player game featuring custom win/draw detection logic. | • Custom win/draw detection<br>• Two-player interactive logic<br>• Fully responsive design | `HTML5` `CSS3` `JavaScript` |
 
-> 💡 Replace the `#` links above with your actual repository URLs once ready.
+> 
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hafsa-cloud123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-cloud123&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsa-cloud123&theme=tokyonight&hide_border=true" />
