@@ -22,6 +22,7 @@
 ---
 
 ### 🐍 Contribution Snake
+![GitHub Snake Animation](https://raw.githubusercontent.com/hafsa-mudassar/hafsa-cloud123/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <picture>
