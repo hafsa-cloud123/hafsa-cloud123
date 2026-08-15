@@ -22,13 +22,13 @@
 ---
 
 ### 🐍 Contribution Snake
-![GitHub Snake Animation](https://raw.githubusercontent.com/hafsa-mudassar/hafsa-cloud123/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/hafsa-cloud123/hafsa-cloud123/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafsa-mudassar/hafsa-mudassar/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafsa-mudassar/hafsa-mudassar/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hafsa-mudassar/hafsa-mudassar/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafsa-cloud123/hafsa-cloud123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafsa-cloud123/hafsa-cloud123/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hafsa-cloud123/hafsa-cloud123/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -37,12 +37,12 @@
 
 <br>
 
-This animation is generated automatically using the [`platane/snk`](https://github.com/Platane/snk) GitHub Action.
-To set it up on your own profile repo (`<username>/<username>`):
+This animation is generated automatically using the [platane/snk](https://github.com/Platane/snk) GitHub Action.
+To set it up on your own profile repo (<hafsa-cloud123>/<hafsa-cloud123>):
 
-1. Create a new workflow file at `.github/workflows/snake.yml` in your profile repository with the following content:
+1. Create a new workflow file at .github/workflows/snake.yml in your profile repository with the following content:
 
-```yaml
+yaml
 name: Generate Snake Animation
 
 on:
@@ -74,7 +74,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+
 
 2. Commit and push the workflow file — it will run automatically on schedule, or you can trigger it manually from the **Actions** tab.
 3. Once it runs, an `output` branch will be created containing the generated SVG files.
@@ -125,9 +125,9 @@ jobs:
 
 | Project | Description | Key Features | Tech Stack |
 |---|---|---|---|
-| 🤖 **[Gemini Clone (AI Chat App)](#)** | An AI-powered chat application built using the Google Gemini API for real-time, context-aware conversations. | • Real-time AI responses<br>• Context-aware chat flow<br>• Clean, minimal chat UI | `HTML5` `CSS3` `JavaScript` `Gemini API` |
-| 🧠 **[Quiz Application](#)** | A dynamic quiz app that tracks user scores in real time with a smooth, engaging UI. | • Real-time score tracking<br>• Dynamic question rendering<br>• Clean, responsive UI | `HTML5` `CSS3` `JavaScript` |
-| ❌⭕ **[Tic-Tac-Toe Game](#)** | An interactive two-player game featuring custom win/draw detection logic. | • Custom win/draw detection<br>• Two-player interactive logic<br>• Fully responsive design | `HTML5` `CSS3` `JavaScript` |
+| 🤖 **[Gemini Clone (AI Chat App)](hafsa-cloud123)** | An AI-powered chat application built using the Google Gemini API for real-time, context-aware conversations. | • Real-time AI responses<br>• Context-aware chat flow<br>• Clean, minimal chat UI | `HTML5` `CSS3` `JavaScript` `Gemini API` |
+| 🧠 **[Quiz Application](hafsa-cloud123)** | A dynamic quiz app that tracks user scores in real time with a smooth, engaging UI. | • Real-time score tracking<br>• Dynamic question rendering<br>• Clean, responsive UI | `HTML5` `CSS3` `JavaScript` |
+| ❌⭕ **[Tic-Tac-Toe Game](hafsa-cloud123)** | An interactive two-player game featuring custom win/draw detection logic. | • Custom win/draw detection<br>• Two-player interactive logic<br>• Fully responsive design | `HTML5` `CSS3` `JavaScript` |
 
 > 💡 Replace the `#` links above with your actual repository URLs once ready.
 
@@ -136,15 +136,15 @@ jobs:
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hafsa-mudassar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-mudassar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hafsa-cloud123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-cloud123&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsa-mudassar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsa-cloud123&theme=tokyonight&hide_border=true" />
 </p>
 
-> 💡 Replace `hafsa-mudassar` in the URLs above with your exact GitHub username so the stats render correctly.
+
 
 ---
 
@@ -154,7 +154,7 @@ jobs:
   <a href="mailto:hafsasheikh598@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/hafsa-mudassar">
+  <a href="https://github.com/hafsa-cloud123">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
