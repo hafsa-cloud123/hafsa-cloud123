@@ -1,111 +1,47 @@
-<!-- <h1 data-importer="text" align="left">Hey 👋 , I'm Hafsa</h1>
+<h1 align="center">Hi there, I'm Hafsa Mudassar 👋</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=IT+Undergraduate+%7C+BSIT+7th+Semester;Web+Developer+%7C+HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Generative+AI+Enthusiast+%7C+Gemini+API;Looking+for+Internship+Opportunities" alt="Typing SVG" />
+</p>
 
-<p data-importer="text" align="left">Full-stack web developer passionate about building clean, functional, and user-friendly applications.</p>
+<p align="center">
+  <a href="mailto:hafsasheikh598@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hafsasheikh598%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-2E86AB?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" />
+</p>
 
-###
-
-<h2 data-importer="text" align="left">A passionate web developer from Pakistan.</h2>
-
-###
-
-<p data-importer="text" align="left">✨ Creating bugs since 2022 (and shipping fixes just as fast)<br>📚 I'm currently learning System Design, Cloud Deployment & API Architecture<br>🎯 Goals: Build scalable, production-ready web applications and grow as a full-stack engineer<br>🎲 Fun fact: My best debugging happens at 2 AM with zero explanation why<br>💬 Ask me about: Next.js, React, MySQL, REST APIs, Authentication<br>📫 Reach me at: hafsasheikh598@gmail.com</p>
-
-###
-
-<h2 data-importer="text" align="left">I code with</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-</div>
-
-### -->
-# Hi there, I'm Hafsa Mudassar 👋
-
-[![Email](https://img.shields.io/badge/Email-hafsasheikh598%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:hafsasheikh598@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-green?style=for-the-badge&logo=googlemaps)](#)
-[![Education](https://img.shields.io/badge/BSIT-7th%20Semester-orange?style=for-the-badge)](#)
-
-A motivated **Information Technology Undergraduate** at the *University of the Punjab*, passionate about building interactive web applications and integrating Generative AI into real-world tools. 
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Languages & Web Development**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-
-**AI Integration & Tools**  
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-886FBF?style=flat-square&logo=googlegemini&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  I'm an Information Technology undergraduate (BSIT, University of the Punjab, Lahore) passionate about building
+  interactive web applications and exploring the power of Generative AI. I enjoy turning ideas into clean, functional
+  products — from AI-powered chat tools to real-time interactive games — and I'm currently looking for internship
+  or entry-level opportunities to grow as a developer. 🚀
+</p>
 
 ---
 
 ### 🐍 Contribution Snake
 
-![Snake Animation](https://github.com/hafsa-mudassar/hafsa-mudassar/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Gemini AI Clone](#)** | A conversational AI chat interface integrating Google Gemini API for real-time response generation. | `JavaScript` `Gemini API` `HTML/CSS` |
-| **[Dynamic Quiz App](#)** | Interactive quiz platform with real-time score calculation and clean UI state management. | `JavaScript` `DOM Manipulation` `CSS3` |
-| **[Tic-Tac-Toe Game](#)** | Two-player interactive web game featuring custom win/draw logic and responsive layout. | `HTML5` `CSS3` `JavaScript` |
-
----
-
-### 📊 GitHub Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafsa-mudassar&show_icons=true&theme=radial" alt="Hafsa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-mudassar&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafsa-mudassar/hafsa-mudassar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafsa-mudassar/hafsa-mudassar/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hafsa-mudassar/hafsa-mudassar/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
----
+<details>
+<summary>⚙️ How this snake is generated (setup instructions)</summary>
 
-### 📫 Connect with Me
+<br>
 
-- **Email:** [hafsasheikh598@gmail.com](mailto:hafsasheikh598@gmail.com)
-- **Location:** Lahore, Punjab, Pakistan
+This animation is generated automatically using the [`platane/snk`](https://github.com/Platane/snk) GitHub Action.
+To set it up on your own profile repo (`<username>/<username>`):
+
+1. Create a new workflow file at `.github/workflows/snake.yml` in your profile repository with the following content:
+
+```yaml
 name: Generate Snake Animation
 
 on:
@@ -137,3 +73,91 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Commit and push the workflow file — it will run automatically on schedule, or you can trigger it manually from the **Actions** tab.
+3. Once it runs, an `output` branch will be created containing the generated SVG files.
+4. Reference the SVG in your README using the raw GitHub URL, as shown above (light/dark variants supported via `<picture>`).
+
+</details>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Web Development**
+
+<p>
+  <img src="https://img.shields.io/badge/DOM%20Manipulation-4B32C3?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-38B2AC?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Basics-FF6F61?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+**AI Tools & APIs**
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+**Developer Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Key Features | Tech Stack |
+|---|---|---|---|
+| 🤖 **[Gemini Clone (AI Chat App)](#)** | An AI-powered chat application built using the Google Gemini API for real-time, context-aware conversations. | • Real-time AI responses<br>• Context-aware chat flow<br>• Clean, minimal chat UI | `HTML5` `CSS3` `JavaScript` `Gemini API` |
+| 🧠 **[Quiz Application](#)** | A dynamic quiz app that tracks user scores in real time with a smooth, engaging UI. | • Real-time score tracking<br>• Dynamic question rendering<br>• Clean, responsive UI | `HTML5` `CSS3` `JavaScript` |
+| ❌⭕ **[Tic-Tac-Toe Game](#)** | An interactive two-player game featuring custom win/draw detection logic. | • Custom win/draw detection<br>• Two-player interactive logic<br>• Fully responsive design | `HTML5` `CSS3` `JavaScript` |
+
+> 💡 Replace the `#` links above with your actual repository URLs once ready.
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hafsa-mudassar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-mudassar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsa-mudassar&theme=tokyonight&hide_border=true" />
+</p>
+
+> 💡 Replace `hafsa-mudassar` in the URLs above with your exact GitHub username so the stats render correctly.
+
+---
+
+### 📫 Contact & Socials
+
+<p align="center">
+  <a href="mailto:hafsasheikh598@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/hafsa-mudassar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile — let's connect and build something great! ✨</i>
+</p>
