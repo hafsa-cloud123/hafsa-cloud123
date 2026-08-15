@@ -17,17 +17,8 @@
 
 ### 👩‍💻 About Me
 
-```javascript
-hafsa = {
-  role: "BS-IT Student @ University of the Punjab, Lahore",
-  focus: "Full-Stack Web Development & Generative AI",
-  stack: ["React.js", "Next.js", "Node.js", "Tailwind CSS", "JavaScript (ES6+)"],
-  currentlyExploring: "Google Gemini API & AI-powered applications",
-  currentlyLearning: ["Advanced React patterns", "Backend architecture with Node.js"],
-  funFact: "I turn ideas into interactive, real-time web apps ⚡",
-  lookingFor: "Internship / Entry-Level Full-Stack Developer roles",
-};
-```
+Hi, I'm Hafsa, a BS-IT student at the University of the Punjab, Lahore, passionate about full-stack web development and generative AI. I build with React.js, Next.js, Node.js, and Tailwind CSS, currently exploring the Google Gemini API to create AI-powered apps. I love turning ideas into interactive, real-time web experiences ⚡ and I'm looking for job or entry-level full-stack developer roles.
+
 - 🎓 I am a BSIT student specializing in end-to-end web development, robust database architecture, and responsive user interfaces using modern front-end tools.
 - 🌱 Passionate Full Stack Web Developer focused on building dynamic, responsive, and highly interactive web applications with clean code and seamless user experiences.
 - 💻 I love building **full-stack projects** — from responsive frontends with **React.js / Next.js / Tailwind CSS** to logic-driven backends with **Node.js**.
