@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Hey 👋 , I'm Hafsa</h1>
+<!-- <h1 data-importer="text" align="left">Hey 👋 , I'm Hafsa</h1>
 
 ###
 
@@ -52,4 +52,57 @@
 <div data-importer="socials" align="left">
 </div>
 
-###
+### -->
+# Hi there, I'm Hafsa Mudassar 👋
+
+[![Email](https://img.shields.io/badge/Email-hafsasheikh598%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:hafsasheikh598@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-green?style=for-the-badge&logo=googlemaps)](#)
+[![Education](https://img.shields.io/badge/BSIT-7th%20Semester-orange?style=for-the-badge)](#)
+
+A motivated **Information Technology Undergraduate** at the *University of the Punjab*, passionate about building interactive web applications and integrating Generative AI into real-world tools. 
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Languages & Web Development**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+
+**AI Integration & Tools**  
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-886FBF?style=flat-square&logo=googlegemini&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake Animation](https://github.com/hafsa-mudassar/hafsa-mudassar/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Gemini AI Clone](#)** | A conversational AI chat interface integrating Google Gemini API for real-time response generation. | `JavaScript` `Gemini API` `HTML/CSS` |
+| **[Dynamic Quiz App](#)** | Interactive quiz platform with real-time score calculation and clean UI state management. | `JavaScript` `DOM Manipulation` `CSS3` |
+| **[Tic-Tac-Toe Game](#)** | Two-player interactive web game featuring custom win/draw logic and responsive layout. | `HTML5` `CSS3` `JavaScript` |
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafsa-mudassar&show_icons=true&theme=radial" alt="Hafsa's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-mudassar&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- **Email:** [hafsasheikh598@gmail.com](mailto:hafsasheikh598@gmail.com)
+- **Location:** Lahore, Punjab, Pakistan
